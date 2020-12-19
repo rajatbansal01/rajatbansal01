@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Rajat Bansal
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajatbansal01&theme=dark&show_icons=true)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 <a href = https://www.linkedin.com/in/rajat-bansal-89175b199><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/rajatbansal01><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/RajatBa30355015><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
 
 ### About me 🤓
@@ -20,7 +20,7 @@ Tensorflow, Keras, OpenCV, Sklearn, Flask, numpy, scipy, jupyter, pandas.
 ### IoT
 Arduino, esp8266, sensors, thingspeak, adafruit, raspberry pi
 ### others
-DSA, Git, docker(beginner).
+DSA, Git, docker(beginner), FastAPI.
 
 
 ---
