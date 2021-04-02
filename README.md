@@ -15,7 +15,7 @@ Python-3,C,C++
 ### OS
 Windows, Linux
 ### Data Science
-Machine Learning, Deep Learning, Computer Vision, Predictive Analytics, Statistics, Probablity, Inferential Stats
+Machine Learning, Deep Learning, Computer Vision, Predictive Analytics, Statistics, Probablity, Inferential Stats, Natural Language Processing
 ### Frameworks and Libraries
 Tensorflow, Keras, OpenCV, Sklearn, Flask, numpy, scipy, jupyter, pandas.
 ### IoT
