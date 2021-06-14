@@ -21,7 +21,7 @@ Tensorflow, Keras, OpenCV, Sklearn, Flask, numpy, scipy, jupyter, pandas.
 ### IoT
 Arduino, esp8266, sensors, thingspeak, adafruit, raspberry pi
 ### others
-DSA, Git, docker(beginner), FastAPI, Azure.
+DSA, Git, docker(beginner), FastAPI, Azure, Learning Web Development
 
 
 ---
