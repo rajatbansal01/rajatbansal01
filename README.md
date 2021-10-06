@@ -10,6 +10,7 @@
 weight='30'></a>
 
 </br>
+
 ### About me 🤓
 
 A tech enthusiast with passion to solve problems and to make things. Very enthusiast about Machine Learning, Deep Learning, Computer Vision Data Science, IoT and Robotics. Python developer. Worked on several projects of ML, Computer Vision. Very good knowlege of predictive Analytics ( statistics, probablity, Inferential Statistics). Good command on various Machine learning algorithms. In Web-Development in know HTML, CSS, JS, Bootstrap, React, node.js.
